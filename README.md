@@ -1,6 +1,6 @@
 # Mariia Korotkaia
 
-### Junior Data Analyst
+### Data Analyst
 
 Аналитик данных с инженерным образованием.  
 Изучаю Data Science в Яндекс Практикуме и развиваюсь в направлении Data Analytics.
