@@ -14,6 +14,7 @@
 - Jupyter Notebook
 - DBeaver
 - MS Excel
+- Matplotlib
 
 ## 📊 Projects
 
