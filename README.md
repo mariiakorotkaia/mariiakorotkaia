@@ -1,16 +1,35 @@
-## Hi there 👋
+# Mariia Korotkaia
 
-<!--
-**mariiakorotkaia/mariiakorotkaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst
 
-Here are some ideas to get you started:
+Начинающий аналитик данных с инженерным образованием.  
+Изучаю Data Science в Яндекс Практикуме и развиваюсь в направлении Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- SQL
+- PostgreSQL
+- Python
+- pandas
+- Jupyter Notebook
+- DBeaver
+- MS Excel
+
+## 📊 Projects
+
+### [Video Games Market Analysis](ссылка)
+Python / pandas  
+Предобработка и исследование данных рынка видеоигр, работа с пропусками, типами данных, категоризацией и аналитическими срезами.
+
+### [E-commerce Customer Analysis](ссылка)
+PostgreSQL / SQL  
+Построение клиентской витрины данных, сегментация пользователей, анализ среднего чека, регионов, способов оплаты и покупательского поведения.
+
+### [Dark Forest User Analysis](ссылка)
+PostgreSQL / SQL  
+Исследование поведения игроков, внутриигровых покупок и платежной активности.
+
+## 🎓 Education
+
+**Yandex Practicum — Data Science Specialist**  
+In progress
